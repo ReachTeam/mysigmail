@@ -1,4 +1,7 @@
 {
+  "engine":{
+    "node":"16.20.2"
+  },
   "name": "email-signature-generator",
   "version": "1.12.0",
   "private": true,
